@@ -1,4 +1,4 @@
-package com.santander.tictactoe.utils;
+package com.letscode.tictactoe.utils;
 
 import java.util.Scanner;
 

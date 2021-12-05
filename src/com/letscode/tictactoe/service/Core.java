@@ -1,7 +1,7 @@
-package com.santander.tictactoe.service;
+package com.letscode.tictactoe.service;
 
-import com.santander.tictactoe.utils.Printer;
-import com.santander.tictactoe.utils.Writer;
+import com.letscode.tictactoe.utils.Writer;
+import com.letscode.tictactoe.utils.Printer;
 
 import java.util.ArrayList;
 import java.util.Random;

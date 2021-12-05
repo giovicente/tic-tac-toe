@@ -1,6 +1,6 @@
-package com.santander.tictactoe.utils;
+package com.letscode.tictactoe.utils;
 
-import com.santander.tictactoe.service.Checker;
+import com.letscode.tictactoe.service.Checker;
 
 public class Printer {
 
