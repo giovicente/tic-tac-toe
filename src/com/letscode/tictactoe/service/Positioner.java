@@ -2,7 +2,7 @@ package com.letscode.tictactoe.service;
 
 import com.letscode.tictactoe.Main;
 
-public class Placer {
+public class Positioner {
 
     public static void placePiece(char[][] gameBoard, int position, String player) {
 

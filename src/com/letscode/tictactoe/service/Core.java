@@ -21,7 +21,7 @@ public class Core {
                 playerPosition = Writer.scanPosition();
             }
 
-            Placer.placePiece(gameBoard, playerPosition, HUMAN);
+            Positioner.placePiece(gameBoard, playerPosition, HUMAN);
 
             String result = Checker.checkWinner();
             if (result.length() > 0) {
@@ -40,7 +40,7 @@ public class Core {
                 cpuPosition = randomPosition.nextInt(9) + 1;
             }
 
-            Placer.placePiece(gameBoard, cpuPosition, CPU);
+            Positioner.placePiece(gameBoard, cpuPosition, CPU);
 
             Printer.printGameBoard(gameBoard);
             System.out.println();
