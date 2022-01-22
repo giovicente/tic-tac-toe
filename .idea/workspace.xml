@@ -20,11 +20,7 @@
       <change afterPath="$PROJECT_DIR$/../meses-do-ano/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../meses-do-ano/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../meses-do-ano/meses-do-ano.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tic_tae_toe_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../variveis-constantes-operadores/variveis-constantes-operadores.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Checker.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +167,7 @@
       <workItem from="1642609621772" duration="680000" />
       <workItem from="1642626999050" duration="2123000" />
       <workItem from="1642812480492" duration="1602000" />
-      <workItem from="1642882894081" duration="365000" />
+      <workItem from="1642882894081" duration="754000" />
     </task>
     <servers />
   </component>
