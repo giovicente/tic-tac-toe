@@ -24,11 +24,7 @@ public class Core {
             Positioner.placePiece(gameBoard, playerPosition, HUMAN);
 
             String result = Checker.checkWinner();
-            if (result.length() > 0) {
-                Printer.printGameBoard(gameBoard);
-                Printer.printResult(result);
-                break;
-            }
+            if (gameFinished(gameBoard, result)) break;
 
             Printer.printGameBoard(gameBoard);
             System.out.println();
@@ -48,11 +44,17 @@ public class Core {
 
             result = Checker.checkWinner();
 
-            if (result.length() > 0) {
-                Printer.printGameBoard(gameBoard);
-                Printer.printResult(result);
-                break;
-            }
+            if (gameFinished(gameBoard, result)) break;
         }
     }
+
+    private static boolean gameFinished(char[][] gameBoard, String result) {
+        if (result.length() > 0) {
+            Printer.printGameBoard(gameBoard);
+            Printer.printResult(result);
+            return true;
+        }
+        return false;
+    }
+
 }
