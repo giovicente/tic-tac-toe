@@ -25,6 +25,7 @@ public class Core {
 
             String result = Checker.checkWinner();
             if (result.length() > 0) {
+                Printer.printGameBoard(gameBoard);
                 Printer.printResult(result);
                 break;
             }
@@ -48,6 +49,7 @@ public class Core {
             result = Checker.checkWinner();
 
             if (result.length() > 0) {
+                Printer.printGameBoard(gameBoard);
                 Printer.printResult(result);
                 break;
             }
