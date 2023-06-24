@@ -1,6 +1,7 @@
 package com.letscode.tictactoe;
 
 import com.letscode.tictactoe.service.Core;
+import com.letscode.tictactoe.utils.Board;
 import com.letscode.tictactoe.utils.Printer;
 
 import java.util.ArrayList;
@@ -12,14 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        char[][] gameBoard = {
-                {' ','|',' ','|',' '},
-                {'-','+','-','+','-'},
-                {' ','|',' ','|',' '},
-                {'-','+','-','+','-'},
-                {' ','|',' ','|',' '}
-        };
-
+        char[][] gameBoard = Board.getGameBoard();
         Printer.printGameBoard(gameBoard);
         Core.runGame(playerPositions, cpuPositions, gameBoard);
 

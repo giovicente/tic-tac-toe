@@ -7,24 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53ebb6ce-9533-4b2e-aacd-563e8516f928" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aplicacao-vetores/aplicacao-vetores-matrizes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../calcula-idades/calcula-idades.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../calcula-idades/src/com/letscode/arrays/entidades/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../calcula-idades/src/com/letscode/arrays/service/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../conversor-temperatura/conversor-temperatura.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../conversor-temperatura/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../conversor/conversor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meses-do-ano/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meses-do-ano/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meses-do-ano/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meses-do-ano/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meses-do-ano/meses-do-ano.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../variveis-constantes-operadores/variveis-constantes-operadores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InvertedString/src/main/java/InvertedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/tic_tae_toe_jar/tic-tae-toe.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/tic_tae_toe_jar/tic-tae-toe.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Core.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Core.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letscode/tictactoe/service/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letscode/tictactoe/service/Core.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letscode/tictactoe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letscode/tictactoe/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="21sTUfy126zZXDsox6HdCEIZVe1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -112,7 +101,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3732504" />
-    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -176,6 +165,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
