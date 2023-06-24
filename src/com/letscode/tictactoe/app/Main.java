@@ -1,4 +1,4 @@
-package com.letscode.tictactoe;
+package com.letscode.tictactoe.app;
 
 import com.letscode.tictactoe.service.Core;
 import com.letscode.tictactoe.utils.Board;

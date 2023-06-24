@@ -1,6 +1,6 @@
 package com.letscode.tictactoe.service;
 
-import com.letscode.tictactoe.Main;
+import com.letscode.tictactoe.app.Main;
 
 import java.util.ArrayList;
 import java.util.Arrays;

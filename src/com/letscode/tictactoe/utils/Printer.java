@@ -16,7 +16,7 @@ public class Printer {
         }
     }
 
-    public static void printPlacementMessage() { System.out.println(ENTER_PLACEMENT_MESSAGE); }
+    public static void printPlacementMessage() { System.out.print(ENTER_PLACEMENT_MESSAGE); }
 
     public static void printResult(String result) {
         result = Checker.checkWinner();
