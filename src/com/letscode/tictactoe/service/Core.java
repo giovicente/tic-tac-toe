@@ -1,5 +1,6 @@
 package com.letscode.tictactoe.service;
 
+import com.letscode.tictactoe.utils.Board;
 import com.letscode.tictactoe.utils.Writer;
 import com.letscode.tictactoe.utils.Printer;
 
@@ -8,10 +9,13 @@ import java.util.Random;
 
 public class Core {
 
-    public static void runGame(ArrayList<Integer> playerPositions, ArrayList<Integer> cpuPositions, char[][] gameBoard) {
+    public static void runGame(ArrayList<Integer> playerPositions, ArrayList<Integer> cpuPositions) {
         boolean isRunning = true;
         final String HUMAN = "human";
         final String CPU = "cpu";
+
+        char[][] gameBoard = Board.getGameBoard();
+        Printer.printGameBoard(gameBoard);
 
         while (isRunning) {
             int playerPosition = Writer.scanPosition();

@@ -7,10 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53ebb6ce-9533-4b2e-aacd-563e8516f928" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/minimaxsum/MiniMaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/plusminus/PlusMinus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/timeconversion/TimeConversion.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../InvertedString/src/main/java/InvertedString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letscode/tictactoe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letscode/tictactoe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Checker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Positioner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Positioner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/utils/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/utils/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letscode/tictactoe/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letscode/tictactoe/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/letscode/tictactoe/service/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letscode/tictactoe/service/Core.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,11 +114,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.letscode.tictactoe.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.letscode.tictactoe.app.Main" />
       <module name="tic-tae-toe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.letscode.tictactoe.*" />
+          <option name="PATTERN" value="com.letscode.tictactoe.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
