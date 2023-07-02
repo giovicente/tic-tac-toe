@@ -48,7 +48,7 @@ public class Core {
 
             result = Checker.checkWinner();
 
-            if (gameFinished(gameBoard, result)) break;
+            if (gameFinished(gameBoard, result)) isRunning = false;
         }
     }
 

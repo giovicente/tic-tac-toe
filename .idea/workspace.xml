@@ -5,20 +5,52 @@
       <artifact name="tic-tae-toe:jar" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="53ebb6ce-9533-4b2e-aacd-563e8516f928" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/minimaxsum/MiniMaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/plusminus/PlusMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/timeconversion/TimeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InvertedString/src/main/java/InvertedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpaceInvaders/SpaceInvaders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ciclos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ciclos/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/HackerRankLab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/HackerRankLab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/com/giovicente/test/minimaxsum/MiniMaxSumTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/weekone/flippingbits/FlippingBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/weekone/lonelyinteger/LonelyInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/weekone/minimaxsum/MiniMaxSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/weekone/plusminus/PlusMinus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/weekone/sparsearrays/SparseArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/out/production/HackerRankLab/weekone/timeconversion/TimeConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/weekone/flippingbits/FlippingBits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/weekone/lonelyinteger/LonelyInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/weekone/minimaxsum/MiniMaxSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/weekone/plusminus/PlusMinus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/weekone/sparsearrays/SparseArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRankLab/src/com/giovicente/main/weekone/timeconversion/TimeConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InvertedString/src/main/java/InvertedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InvertedString/src/main/java/InvertedString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Checker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Positioner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Positioner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/utils/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/utils/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/letscode/tictactoe/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letscode/tictactoe/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Core.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tic-tae-toe/com/letscode/tictactoe/service/Core.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/letscode/tictactoe/service/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/letscode/tictactoe/service/Core.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
